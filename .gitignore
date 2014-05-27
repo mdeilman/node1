@@ -1,0 +1,12 @@
+.DS_Store
+a.out
+*.png
+*.dSym
+*.swp
+*.exe
+*.obj
+*.o
+dummy.tmp
+dummy
+DATA/
+
